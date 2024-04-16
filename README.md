@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Subham Satyasundar Majhi</h1>
 <h3 align="center">A passionate android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif">
